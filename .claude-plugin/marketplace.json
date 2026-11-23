@@ -1,0 +1,16 @@
+{
+  "name": "revit-bim-assistant",
+  "owner": {
+    "name": "Ziyad Faraj"
+  },
+  "metadata": {
+    "description": "Claude plugin for Revit BIM work through pyRevit's built-in agent."
+  },
+  "plugins": [
+    {
+      "name": "revit-bim-assistant",
+      "source": "./",
+      "description": "Work in Autodesk Revit from Claude through pyRevit's built-in Agent Runtime: model info, shop drawings, parameter edits and Python scripts."
+    }
+  ]
+}
