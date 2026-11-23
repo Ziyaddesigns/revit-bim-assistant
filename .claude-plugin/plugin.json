@@ -1,0 +1,11 @@
+{
+  "name": "revit-bim-assistant",
+  "version": "0.1.0",
+  "description": "Work in Autodesk Revit from Claude through pyRevit's built-in Agent Runtime: read model information, produce shop drawing sheets, schedules and drawing logs, bulk-edit parameters with approval, and run Python scripts safely.",
+  "author": {
+    "name": "Ziyad Faraj",
+    "url": "https://www.linkedin.com/in/ziyaddesigns"
+  },
+  "license": "MIT",
+  "keywords": ["revit", "bim", "pyrevit", "shop drawings", "schedules", "architecture", "interior design", "millwork"]
+}
